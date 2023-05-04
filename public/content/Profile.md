@@ -1,19 +1,19 @@
 ## Site Name
-- Portable Portfolio
+- Adrian's Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Adrian. 
+- 
+- Computer Engineering Student @ Waterloo
 
 ## About
-Write your "About" section here.
+Hello! I'm passionate about new and innovative technology that can positvely impact the world around me. I am interested in any embedded/firmeware opportunities where I can learn low level programming.
 
 ## Contact
 Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adrianfpho/
+- GitHub: https://github.com/YellowCucumber23
+- Email: afpho@uwaterloo.ca
 
 ## Logo
-- EB
+- AH
