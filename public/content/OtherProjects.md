@@ -1,23 +1,27 @@
 ## Project 1
-Description
-- Tags: Category 1
+Performed a sentiment analysis on the most popular headlines on Reddit
+- Tags: Reddit Sentiment Analyzer
 - Badges:
-  - Badge [blue]
+  - Jupyter Notebooks [blue]
+  - Python [blue]
 - Buttons:
   - Link [https://example.com]
 
 ## Project 2
-Description
-- Tags: Category 2
+Discord bot to scrape the web for memes
+- Tags: Cultured Bot
 - Badges:
-  - Badge [blue]
+  - Discord.js [blue]
+  - Javascript [blue]
+  - HTML/CSS[blue]
 - Buttons:
   - Link [https://example.com]
 
 ## Project 3
-Description
-- Tags: Category 3
+Self driving car built with Arduino's, Sensors and Motors
+- Tags: Autonomous Bluetooth Car
 - Badges:
-  - Badge [blue]
+  - Arduino [blue]
+  - Breadboarding [blue]
 - Buttons:
   - Link [https://example.com]
