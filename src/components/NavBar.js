@@ -98,6 +98,9 @@ export default function Nav({ color }) {
           <Stack direction={"row"} spacing={7}>
             {isLargerThanMD ? (
               <>
+                <Button variant="ghost">
+                  Resume
+                  </Button>
                 <Button variant="ghost" onClick={scrollToAbout}>
                   About
                 </Button>
