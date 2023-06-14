@@ -3,9 +3,10 @@
 - ![logo512](../assets/DCM-logo.png)
 - Tags: DATA Communcations Management
 - Badges:
-  - Badge [blue]
+  - Powershell [blue]
+  - Network Topology [blue]
 - List Items:
-  - Description To Be Determined. I am currently working here!
+  - Developed a PowerShell script to automate server monitoring by pinging 120+ servers periodically to maintain an up-to-date active server list.
   - Description To Be Determined. I am currently working here!
 
 ## Midnight Sun Solar Car Team

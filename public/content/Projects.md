@@ -1,11 +1,15 @@
-## NES Emulator
-An emulator for the Nintendo Entertainment System. I am currently working on this!
+## Taser Chess
+A chess robot that provides real-time feedback through electrical shock from a TENS Unit when a player makes a sub optimal move. Implemented a React.js webpage to display the current board state
 - ![600x200](https://via.placeholder.com/600x200)
-- Tags: NES Emulator
+- Tags: Taser Chess
 - Badges:
-  - C++ [blue]
+  - C++/Arduino [blue]
+  - Javascript [blue]
+  - React.js [blue]
+  - Node.js/Express.js [blue]
+  - Sockets.io [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/YellowCucumber23/zipzap]
 
 ## Markhov Music
 This application takes in a midi file and parses it to create sheet music with the a similar note patterns and pitches
@@ -22,7 +26,7 @@ Implented Riot Games API with Reactjs to display the match history, most played 
 - ![600x200](https://via.placeholder.com/600x200)
 - Tags: League of Legends Role Analyzer
 - Badges:
-  - Reactjs [blue]
+  - React.js [blue]
   - Javascript [blue]
   - Python [blue]
   - HTML/CSS [blue]
