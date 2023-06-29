@@ -7,7 +7,7 @@
   - Network Topology [blue]
 - List Items:
   - Developed a PowerShell script to automate server monitoring by pinging 120+ servers periodically to maintain an up-to-date active server list.
-  - Description To Be Determined. I am currently working here!
+  - Created comprehensive network diagrams using Microsoft Visio to depict the connectivity and layout of the entire DCM network and Azure Virtual Network
 
 ## Midnight Sun Solar Car Team
 - Hardware Subteam Member | Sep'22 - Jan'23
