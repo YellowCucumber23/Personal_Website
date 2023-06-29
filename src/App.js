@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      {/* <Nav color={color} /> */}
+      <Nav color={color} />
       <Header color={color} />
       <About color={color} />
       <Experience color={color} />
