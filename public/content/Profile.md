@@ -4,10 +4,10 @@
 ## Header
 - Hi, my name is Adrian. 
 - 
-- Computer Engineering Student @ Waterloo
+- Computer Engineering Student @ UWaterloo
 
 ## About
-Hello! I'm passionate about new and innovative technology that can positvely impact the world around me. I am interested in any embedded/firmeware opportunities where I can learn low level programming.
+Hello! I'm a computer engineer with a passion for new and innovative technology that can positvely impact the world around me. I have an interest in embedded and firmware opportunities that would help me learn about low-level programming
 
 ## Contact
 Click on any of the icons below to contact me!
