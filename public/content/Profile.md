@@ -2,7 +2,7 @@
 - Adrian's Portfolio
 
 ## Header
-- Hi, my name is Adrian. 
+- Hi, my name is Adrian!
 - 
 - Computer Engineering Student @ UWaterloo
 
