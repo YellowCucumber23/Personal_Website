@@ -1,4 +1,4 @@
-## Project 1
+## Sentiment Analysis
 Performed a sentiment analysis on the most popular headlines on Reddit
 - Tags: Reddit Sentiment Analyzer
 - Badges:
@@ -7,7 +7,7 @@ Performed a sentiment analysis on the most popular headlines on Reddit
 - Buttons:
   - Link [https://github.com/YellowCucumber23/Reddit-Sentiment-Analyzer]
 
-## Project 2
+## Cultured Bot
 Discord bot to scrape the web for memes
 - Tags: Cultured Bot
 - Badges:
@@ -17,7 +17,7 @@ Discord bot to scrape the web for memes
 - Buttons:
   - Link [https://github.com/YellowCucumber23/Culture-Bot]
 
-## Project 3
+## Bluetooth Car
 Self driving car built with Arduino's, Sensors and Motors
 - Tags: Autonomous Bluetooth Car
 - Badges:

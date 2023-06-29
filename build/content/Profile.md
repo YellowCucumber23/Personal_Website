@@ -7,7 +7,7 @@
 - Computer Engineering Student @ Waterloo
 
 ## About
-Hello! I'm passionate about new and innovative technology that can positvely impact the world around me. I am interested in any embedded/firmeware opportunities where I can learn low level programming.
+Hello! I'm computer engineer with a passion for new and innovative technology that can positvely impact the world around me. I am interested in any embedded/firmeware opportunities where I can learn low level programming.
 
 ## Contact
 Click on any of the icons below to contact me!
