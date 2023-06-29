@@ -5,7 +5,7 @@ Performed a sentiment analysis on the most popular headlines on Reddit
   - Jupyter Notebooks [blue]
   - Python [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/YellowCucumber23/Reddit-Sentiment-Analyzer]
 
 ## Project 2
 Discord bot to scrape the web for memes
@@ -15,7 +15,7 @@ Discord bot to scrape the web for memes
   - Javascript [blue]
   - HTML/CSS[blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/YellowCucumber23/Culture-Bot]
 
 ## Project 3
 Self driving car built with Arduino's, Sensors and Motors
@@ -24,4 +24,4 @@ Self driving car built with Arduino's, Sensors and Motors
   - Arduino [blue]
   - Breadboarding [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/YellowCucumber23/Autonomous-Bluetooth-Car-]

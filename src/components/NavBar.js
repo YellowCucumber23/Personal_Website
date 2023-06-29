@@ -57,6 +57,11 @@ export default function Nav({ color }) {
     const contactSection = document.querySelector("#contact");
     contactSection.scrollIntoView({ behavior: "smooth" });
   };
+
+  const openInNewTab = () => {
+    window.open("../assets/Adrian_Ho_Resume.pdf", '_blank', 'noreferrer');
+  };
+
   const changeScroll = () =>
     document.body.scrollTop > 80 || document.documentElement.scrollTop > 80
       ? setScroll(true)
@@ -98,9 +103,9 @@ export default function Nav({ color }) {
           <Stack direction={"row"} spacing={7}>
             {isLargerThanMD ? (
               <>
-                <Button variant="ghost">
+                <Button variant="ghost" onClick={openInNewTab}>
                   Resume
-                  </Button>
+                </Button>
                 <Button variant="ghost" onClick={scrollToAbout}>
                   About
                 </Button>
