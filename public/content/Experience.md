@@ -1,13 +1,25 @@
+## UW Orbital
+- Firmware Developer | Jul'23 - Present
+- ![logo512](../assets/uw-orbital.png)
+- Tags: UW Orbital
+- Badges:
+  - C [blue]
+  - RTOS [blue]
+  - I2C [blue]
+- List Items:
+  - Implemented a driver for a hardware watchdog timer in a Real-Time Operating System environment to increase system reliability and decrease system downtime by 50%
+  - Created an address generator function for the AX.25 data link layer protocol, allowing communication to multiple ground stations and increasing data transmission speeds by 15%
+
 ## DATA Communications Management
-- Junior IT Infrastructure Administrator | May'23 - Aug'23
+- DevOps | May'23 - Aug'23
 - ![logo512](../assets/DCM-logo.png)
 - Tags: DATA Communcations Management
 - Badges:
   - Powershell [blue]
   - Network Topology [blue]
 - List Items:
-  - Developed a PowerShell script to automate server monitoring by pinging 120+ servers periodically to maintain an up-to-date active server list.
-  - Created comprehensive network diagrams using Microsoft Visio to depict the connectivity and layout of the entire DCM network and Azure Virtual Network
+  - Developed a Powershell script to automate server monitoring by pinging servers periodically, decreasing the speed of task by 85% and to maintain an up-to-date active server list.
+  - Created network diagrams using Microsoft Visio for 14+ DCM locations and Azure Virtual Networks, to decrease network troubleshooting times by 60%
 
 ## Midnight Sun Solar Car Team
 - Hardware Subteam Member | Sep'22 - Jan'23
@@ -19,13 +31,3 @@
 - List Items:
   - Worked in a team of 8 people to design printed circuit boards for the Battery Management System using Altium Designer to increase the speed of firmware implementation
   - Searched and added new I/O expanders and kill switches on Digi-Key for the Altium 365 component library to decrease the time to search for parts
-
-## Smith-Rogers Financial
-- Data Entry Clerk | Jun'22 - Aug'22
-- ![logo512](../assets/SR-logo.png)
-- Tags: Smith-Rogers Financial
-- Badges:
-  - MS Office [blue]
-- List Items:
-  - Organized 200+ investment statements in an online database by scanning the physical copies and uploading to an online network to increase the speed of information retrieval
-  - Condensed and reviewed 500+ client portfolios to ensure information on all clients are up to date
