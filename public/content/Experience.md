@@ -1,3 +1,17 @@
+## Onsemi
+- Firmware Developer | Jan'24 - Apr'24
+- ![logo512](../assets/onsemi-logo.png)
+- Tags: Onsemi
+- Badges:
+  - C [blue]
+  - PWM [blue]
+  - Watchdog [blue]
+  - Bootloader [blue]
+- List Items:
+  - Implemented PWM and Watchdog drivers adopted from Automotive Open System Architecture (AUTOSAR) standards, increasing duty cycle modulation accuracy to 95% and reducing system failures by 60%
+  - Designed and developed an interface for a low power analog front end (AFE) sensor to read and write calibration data to flash memory using Tag-Length-Value (TLV) encoding, reducing startup time by 98%
+  - Optimized the bootloader for an ARM Cortex M33 processor to enable Root of Trust secure application boot up and download through UART, firmware over the air (FOTA), or SPI, decreasing boot time by 30%
+
 ## UW Orbital
 - Firmware Developer | Jul'23 - Present
 - ![logo512](../assets/uw-orbital.png)
